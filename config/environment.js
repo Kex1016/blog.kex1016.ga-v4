@@ -24,8 +24,8 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Just a blog',
-      description: 'by Kex.',
+      title: "Kex's blog",
+      description: 'Full of weeb since 2019.',
       coverImage: '/images/bcover.png',
 
       navigation: [{

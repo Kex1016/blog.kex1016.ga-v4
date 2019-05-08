@@ -21,7 +21,9 @@ Hey! Welcome to my blog, it's great to have you :)
 
 1. I write for fun. Don't expect professionalism.
 
-1. I love lolis.
+1. I love lolis. Not for lewding. Okay, maybe for lewding.
+
+*Check out my [first post](https://blog.kex1016.ga/first-post) for more info on me!*
 
 ---
 
