@@ -1,6 +1,6 @@
 ---
 title: First post!
-image: /images/first-post.jpg
+image: /images/first-post.png
 imageMeta:
   attribution:
   attributionLink:
