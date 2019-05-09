@@ -1,5 +1,5 @@
 # blog.kex1016.ga
-It's a blog. Based on EmpressJS. That's it.
+It's a blog. Based on EmberJS and compatible with Ghost. That's it.
 
 ## Technology
 
