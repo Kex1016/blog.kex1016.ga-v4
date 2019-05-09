@@ -4,7 +4,7 @@ id: kex1016
 image: /images/121698.png
 cover: /images/kex-cover.jpg
 website: https://blog.kex1016.ga/
-twitter: https://twitter.com/kex1016
+twitter: kex1016
 facebook:
 location: Hungary
 ---
