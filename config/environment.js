@@ -31,14 +31,7 @@ module.exports = function(environment) {
       navigation: [{
         label: 'Home',
         route: 'index'
-      }, {
-        label: 'About Me',
-        route: 'page',
-        id: 'about-me'
-      }, {
-		label: 'AniList',
-		link: 'https://anilist.co/user/Kex1016/'
-	  }]
+      }]
     },
 
     'responsive-image': {
