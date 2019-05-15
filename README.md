@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0e0bb2a1-a2de-4f2c-9fb1-1fcb1ec9ad2a/deploy-status)](https://app.netlify.com/sites/kex1016b/deploys)
 # blog.kex1016.ga
 It's a blog. Based on EmberJS and compatible with Ghost. That's it.
 
