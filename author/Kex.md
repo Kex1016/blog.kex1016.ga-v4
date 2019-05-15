@@ -9,3 +9,4 @@ facebook:
 location: Hungary
 ---
 I'm the one creating this blog. I like anime, music and lolis.
+[More on the about me page.](https://blog.kex1016.ga/page/about-me)
