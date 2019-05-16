@@ -18,3 +18,5 @@ tags:
 * I'll be using the money to get a better domain since the current one is a free one.
 * I will look for a better host to run my stuff on if the current one isn't good enough anymore.
 * You'll receive eternal love and a special place at the end of every post.
+
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Donate!', '#468eb8', 'R5R7VMI2');kofiwidget2.draw();</script>
