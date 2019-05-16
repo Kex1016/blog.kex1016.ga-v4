@@ -39,8 +39,9 @@ module.exports = function(environment) {
 		label: 'AniList',
 		link: 'https://anilist.co/user/Kex1016/'
 	  }, {
-		label: 'Main Page',
-		link: 'https://kex1016.ga'
+		label: 'Donate',
+		route: 'page',
+		id: 'donate'
 	  }]
     },
 
