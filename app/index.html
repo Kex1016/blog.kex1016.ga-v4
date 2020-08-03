@@ -14,12 +14,12 @@
   </head>
   <body>
     {{content-for "body"}}
-    
-    {{disqus-comments identifier=post.title}}
 
     <script src="{{rootURL}}assets/vendor.js"></script>
     <script src="{{rootURL}}assets/empress-blog-casper.js"></script>
 
     {{content-for "body-footer"}}
+    
+    {{disqus-comments identifier=post.title}}
   </body>
 </html>

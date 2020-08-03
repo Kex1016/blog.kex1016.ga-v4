@@ -28,24 +28,13 @@ module.exports = function (environment) {
     },
 
     blog: {
-      title: "Kex's blog",
-      description: 'Full of weeb since 2019.',
-      coverImage: '/images/bcover.png',
+      title: "HiTechZone",
+      description: 'Tech blog',
+      coverImage: '/images/coverImage.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
-      }, {
-        label: 'About Me',
-        route: 'page',
-        id: 'about-me'
-      }, {
-        label: 'AniList',
-        link: 'https://anilist.co/user/Kex1016/'
-      }, {
-        label: 'Donate',
-        route: 'page',
-        id: 'donate'
       }]
     },
 
