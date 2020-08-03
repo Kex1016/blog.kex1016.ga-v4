@@ -1,11 +1,15 @@
 'use strict';
 
-module.exports = function(environment) {
+module.exports = function (environment) {
   let ENV = {
     modulePrefix: 'empress-blog-casper',
     environment,
     rootURL: '/',
     locationType: 'auto',
+
+    disqus: {
+      shortname: 'hitechzone'
+    },
 
     EmberENV: {
       FEATURES: {
@@ -36,13 +40,13 @@ module.exports = function(environment) {
         route: 'page',
         id: 'about-me'
       }, {
-		label: 'AniList',
-		link: 'https://anilist.co/user/Kex1016/'
-	  }, {
-		label: 'Donate',
-		route: 'page',
-		id: 'donate'
-	  }]
+        label: 'AniList',
+        link: 'https://anilist.co/user/Kex1016/'
+      }, {
+        label: 'Donate',
+        route: 'page',
+        id: 'donate'
+      }]
     },
 
     'responsive-image': {
